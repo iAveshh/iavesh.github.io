@@ -48,7 +48,6 @@
   min-height: 621px;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -221,6 +220,7 @@
   .u-section-1 .u-list-1 {
     min-height: 512px;
     margin-top: 20px;
+    height: auto;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -380,7 +380,6 @@
   min-height: 308px;
   margin-top: 20px;
   margin-bottom: 32px;
-  height: auto;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -510,6 +509,7 @@
 
   .u-section-2 .u-list-1 {
     min-height: 400px;
+    height: auto;
   }
 
   .u-section-2 .u-icon-1 {

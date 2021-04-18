@@ -34165,34 +34165,29 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1rem;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 58px;
+  }
+
   .u-header .u-menu-1 {
-    margin-left: 28px;
+    margin-top: 5px;
+    margin-left: auto;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
     min-height: 50px;
   }
+}
 
-  .u-header .u-menu-1 {
-    margin-top: 6px;
-    margin-bottom: 6px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-menu-1 {
-    margin-top: 11px;
-    margin-bottom: 11px;
-  }
-}
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
     min-height: 49px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 6px;
-    margin-bottom: 6px;
+    width: auto;
+    margin-left: 0;
   }
 }
 .u-footer .u-sheet-1 {
