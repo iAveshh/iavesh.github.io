@@ -34169,20 +34169,30 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: 28px;
   }
 }
-
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 148px;
+    min-height: 50px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-menu-1 {
+    margin-top: 11px;
+    margin-bottom: 11px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 165px;
+    min-height: 49px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: 6px;
+    margin-bottom: 6px;
   }
 }
 .u-footer .u-sheet-1 {
