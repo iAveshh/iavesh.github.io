@@ -206,7 +206,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1839px;
+    min-height: 1577px;
   }
 
   .u-section-1 .u-text-1 {
@@ -214,9 +214,9 @@
   }
 
   .u-section-1 .u-list-1 {
-    min-height: 1779px;
+    min-height: 1517px;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 1px;
   }
 
   .u-section-1 .u-repeater-1 {
