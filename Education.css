@@ -11,19 +11,9 @@
   margin: 55px auto 0;
 }
 
-.u-section-1 .u-text-2 {
-  font-weight: 700;
-  margin: -1px 180px 0 750px;
-}
-
-.u-section-1 .u-text-3 {
-  font-weight: 700;
-  margin: -35px 750px 0 180px;
-}
-
 .u-section-1 .u-list-1 {
   min-height: 564px;
-  margin-top: 0;
+  margin-top: 35px;
   margin-bottom: 60px;
 }
 
@@ -46,20 +36,25 @@
   margin: 0 auto;
 }
 
-.u-section-1 .u-text-4 {
+.u-section-1 .u-text-2 {
   text-transform: uppercase;
   font-size: 1.5rem;
   margin: 12px 0 0;
 }
 
-.u-section-1 .u-text-5 {
+.u-section-1 .u-text-3 {
   font-weight: 700;
   margin: 12px 0 0;
 }
 
-.u-section-1 .u-text-6 {
+.u-section-1 .u-text-4 {
+  font-size: 1.875rem;
+  margin: 20px 35px 0;
+}
+
+.u-section-1 .u-text-5 {
   width: 440px;
-  margin: 8px auto 0;
+  margin: 20px auto 0;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -74,20 +69,25 @@
   margin: 0 auto;
 }
 
-.u-section-1 .u-text-7 {
+.u-section-1 .u-text-6 {
   text-transform: uppercase;
   font-size: 1.5rem;
   margin: 12px 0 0;
 }
 
-.u-section-1 .u-text-8 {
+.u-section-1 .u-text-7 {
   font-weight: 700;
   margin: 12px 0 0;
 }
 
+.u-section-1 .u-text-8 {
+  font-size: 1.875rem;
+  margin: 20px 35px 0;
+}
+
 .u-section-1 .u-text-9 {
   width: 440px;
-  margin: 8px auto 0;
+  margin: 20px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -95,21 +95,9 @@
     min-height: 812px;
   }
 
-  .u-section-1 .u-text-2 {
-    width: auto;
-    margin-right: 118px;
-    margin-left: 612px;
-  }
-
-  .u-section-1 .u-text-3 {
-    width: auto;
-    margin-right: 609px;
-    margin-left: 121px;
-  }
-
   .u-section-1 .u-list-1 {
     min-height: 579px;
-    margin-top: 12px;
+    margin-top: 47px;
     height: auto;
   }
 
@@ -117,8 +105,18 @@
     grid-template-columns: repeat(2, 50%);
   }
 
-  .u-section-1 .u-text-6 {
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
     margin-top: 35px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-9 {
@@ -128,30 +126,16 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1329px;
+    min-height: 1397px;
   }
 
   .u-section-1 .u-text-1 {
     margin-top: 12px;
   }
 
-  .u-section-1 .u-text-2 {
-    width: 210px;
-    margin-top: 616px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-section-1 .u-text-3 {
-    width: 210px;
-    margin-top: -641px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   .u-section-1 .u-list-1 {
-    min-height: 1201px;
-    margin-top: 18px;
+    min-height: 1219px;
+    margin-top: 46px;
     margin-bottom: 0;
   }
 
@@ -161,30 +145,30 @@
     grid-auto-rows: 66.66%;
   }
 
-  .u-section-1 .u-text-4 {
+  .u-section-1 .u-text-2 {
     width: auto;
     margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
     margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-1 .u-text-5 {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .u-section-1 .u-text-6 {
     margin-top: 27px;
   }
 
-  .u-section-1 .u-text-7 {
+  .u-section-1 .u-text-6 {
     width: auto;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
   }
 
-  .u-section-1 .u-text-8 {
+  .u-section-1 .u-text-7 {
     margin-left: auto;
     margin-right: auto;
   }
@@ -199,17 +183,9 @@
     min-height: 1492px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-top: 704px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-top: -725px;
-  }
-
   .u-section-1 .u-list-1 {
     min-height: 1356px;
-    margin-top: 11px;
+    margin-top: 61px;
     margin-bottom: -11px;
   }
 
@@ -237,17 +213,9 @@
     margin-top: 20px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-top: 760px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-top: -765px;
-  }
-
   .u-section-1 .u-list-1 {
     min-height: 1695px;
-    margin-top: -53px;
+    margin-top: 0;
     margin-bottom: 1px;
   }
 
@@ -255,7 +223,7 @@
     padding-top: 50px;
   }
 
-  .u-section-1 .u-text-6 {
+  .u-section-1 .u-text-5 {
     width: auto;
     margin-top: 18px;
     margin-left: 0;
