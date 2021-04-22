@@ -206,7 +206,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2250px;
+    min-height: 1839px;
   }
 
   .u-section-1 .u-text-1 {
@@ -214,14 +214,13 @@
   }
 
   .u-section-1 .u-list-1 {
-    min-height: 2191px;
+    min-height: 1779px;
     margin-top: 0;
     margin-bottom: 0;
   }
 
   .u-section-1 .u-repeater-1 {
-    grid-gap: 100px 100px;
-    grid-auto-rows: calc(50% - 50px);
+    grid-auto-rows: 50%;
   }
 
   .u-section-1 .u-container-layout-1 {
